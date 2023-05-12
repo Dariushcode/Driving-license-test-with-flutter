@@ -1,6 +1,6 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://www.Dariushcode.ir">  ⭐️⭐️⭐️DariushCode.IR⭐️⭐️⭐️</a><br>
+        <a href="http://dariushcode.ir/">  ⭐️⭐️⭐️DariushCode.IR⭐️⭐️⭐️</a><br>
     </b>
     
     
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-    <a href="http://www.Dariushcode.ir"><b>Website</b></a> •
+    <a href="https://www.Dariushcode.ir"><b>Website</b></a> •
     <a href="https://cafebazaar.ir/developer/989943102094?l=en"><b>Bazaar</b></a> •
     <a href="https://twitter.com/Dariushcode"><b>Twitter</b></a>
 </p>
