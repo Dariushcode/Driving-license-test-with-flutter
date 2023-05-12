@@ -48,7 +48,7 @@
 
 
 
-Special thanks to these amazing projects which help power AppFlowy.IO:
+Special thanks to these  which help power Dariushcode:
 
 * [AmirahmadAdibi](https://github.com/amirahmadadibi)
 * [CafeBazzar](https://cafebazaar.ir/)
